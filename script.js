@@ -6,7 +6,7 @@ const assassins = [
     { name: "Sniper", description: "Tactical genius, specializes in ambushes and mind games to take down targets.", price: "$999", image: "https://raw.githubusercontent.com/KalakkalKarthikeyan/ASSASSIN.COM/refs/heads/main/IMG_20250204_200058%7E2.jpg" },
     { name: "Trump(Co-Leader)", description: "Smile Killer & Most Ordered Assassin, takes down targets with a deadly grin, uses psychological warfare.", price: "$1299", image: "https://raw.githubusercontent.com/KalakkalKarthikeyan/ASSASSIN.COM/refs/heads/main/karthi.jpg" },
     { name: "My Friend", description: "Worst Skilled Assassin, often misses his target, Still Fighting With Chutki For A Laddoo.", price: "$99", image: "https://raw.githubusercontent.com/KalakkalKarthikeyan/ASSASSIN.IN/refs/heads/main/va.jpg" },
-    { name: "Random Chinese", description: "Gadget specialist, known for setting up clever traps and using high-tech gear for the job.", price: "$999", image: "https://raw.githubusercontent.com/KalakkalKarthikeyan/ASSASSIN.COM/refs/heads/main/vi.jpg" }
+    { name: "Random Chinese", description: "Gadget specialist, known for setting up clever traps and using high-tech gear for the job.", price: "$999", image: "https://github.com/Kalakkal123/ASSASSIN.IN/blob/main/download.jpg?raw=true" }
 ];
 
 const slider = document.getElementById("assassin-slider");
