@@ -1,12 +1,12 @@
 const assassins = [
-    { name: "Spiderman", description: "Sorry, this assassin is busy taking down Thanos!.", price: "$1050", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/spider.jpg" },
+    { name: "Spiderman", description: "This Guy is currently acting in Spiderman: Searching for job.", price: "$70(Offer)", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/spider.jpg" },
     { name: "Antman", description: "Close combat master, specializes in hand-to-hand fights and pressure point attacks.", price: "$799", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/antman.jpg" },
     { name: "My Neighbour", description: "Master Mind, Uses bio technology.", price: "$910", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/My%20Neighbour.jpg" },
-    { name: "Elon Musk (Gang Leader)", description: "Most Paid Assassin, Eraser Act Specialist (attacks by throwing erasers), skilled in sniper attacks and strategic eliminations.", price: "$1999", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/elon.jpg" },
+    { name: "Elon Musk", description: "Most Paid Assassin, Eraser Act Specialist (attacks by throwing erasers), skilled in sniper attacks and strategic eliminations.", price: "$1999", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/elon.jpg" },
     { name: "Sniper", description: "Tactical genius, specializes in ambushes and mind games to take down targets.", price: "$999", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/sniper.jpg" },
-    { name: "Trump(Co-Leader)", description: "Smile Killer & Most Ordered Assassin, takes down targets with a deadly grin, uses psychological warfare.", price: "$1299", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/trump.jpg" },
-    { name: "My Friend", description: "Worst Skilled Assassin, often misses his target, Still Fighting With Shopkeeper For A Laddoo.", price: "$399", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/my%20friend.jpg" },
-    { name: "Random Chinese", description: "Gadget specialist, known for setting up clever traps and using high-tech gear for the job.", price: "$999", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/chinese.jpg" }
+    { name: "Trump", description: "Smile Killer & Most Ordered Assassin, takes down targets with a deadly grin, uses psychological warfare.", price: "$1299", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/trump.jpg" },
+    { name: "My Friend", description: "Worst Skilled Assassin, often misses his target, homeless", price: "$399", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/my%20friend.jpg" },
+    { name: "Random Chinese", description: "Gadget specialist, and uses high-tech gear for the job.", price: "$999", image: "https://raw.githubusercontent.com/Kalakkal123/ASSASSIN.IN/refs/heads/main/chinese.jpg" }
 ];
 
 const slider = document.getElementById("assassin-slider");
